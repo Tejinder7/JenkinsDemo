@@ -1,2 +1,2 @@
 echo "Git Integration";
-echo "Let's see Poll SCM";
+echo "Let's see Hooks";
